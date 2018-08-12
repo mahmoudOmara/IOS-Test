@@ -1,0 +1,38 @@
+PODS:
+  - Alamofire (4.7.2)
+  - AlamofireImage (3.3.1):
+    - Alamofire (~> 4.5)
+  - AlamofireObjectMapper (5.0.0):
+    - Alamofire (~> 4.1)
+    - ObjectMapper (~> 3.0)
+  - KVNProgress (2.3.1)
+  - ObjectMapper (3.3.0)
+  - ShadowView (1.2)
+
+DEPENDENCIES:
+  - Alamofire
+  - AlamofireImage
+  - AlamofireObjectMapper
+  - KVNProgress
+  - ShadowView
+
+SPEC REPOS:
+  https://github.com/CocoaPods/Specs.git:
+    - Alamofire
+    - AlamofireImage
+    - AlamofireObjectMapper
+    - KVNProgress
+    - ObjectMapper
+    - ShadowView
+
+SPEC CHECKSUMS:
+  Alamofire: e4fa87002c137ba2d8d634d2c51fabcda0d5c223
+  AlamofireImage: 3b35b586853abaf94ca1250f4e94cff3c21a4c0d
+  AlamofireObjectMapper: 5fafc816351cbbc0d486611aaeba7461c0cbad49
+  KVNProgress: 8167b1f19e2758290c0b6143020ed9dcbb0477a1
+  ObjectMapper: b612bf8c8e99c4dc0bb6013a51f7c27966ed5da9
+  ShadowView: e686f2e27fc281c0118419b1fb314b6e534a4682
+
+PODFILE CHECKSUM: 75e65b579f54e1b4f13ba10bec1af7abb1974374
+
+COCOAPODS: 1.5.0
